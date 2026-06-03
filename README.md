@@ -17,10 +17,35 @@ Foi utilizado também vários tipos de páginas diferentes como Classic Report, 
 
 <img width="1364" height="569" alt="image" src="https://github.com/user-attachments/assets/38c65e85-8374-4f35-a2c8-fffc5590b326" />
 
+## Controle de Acesso
+Em uma loja de verdade é preciso diferente níveis de acesso com diferentes permissões para manter o sistema confiável e garantindo que cada um só terá acesso e editará aquilo que é importante a sua função, sem gerar consequências para as outras pessoas. Um usuário comum, por exemplo, não pode ter o mesmo nível de acesso de um Administrador, que por sua vez, terá acesso diferente do que um Estoquista. Por isso, foi criado 7 níveis de acesso e permissões, ale´m da página chamada Access Control, que é de acesso do administrador e pode trocar as funções e acesso dos usuários a qualquer momento.
+
+<img width="1322" height="554" alt="image" src="https://github.com/user-attachments/assets/fee322c1-c9c5-42d7-9362-0e5c73585e09" />
+
+## Construção do Banco de Dados
+Para conseguir que todas as funcionalidades fossem corretamente executadas, foi preciso arquitetar quais tabelas serias necessárias, suas chaves primarias, extrangeiras, triggers, etc, e dessa forma a construção e população das tabelas conseguiu servir ao proposto.
+Abaixo é possivel ver alguams tabelas, views, packages e triggers criadas para este projeto
+
+<img width="354" height="444" alt="image" src="https://github.com/user-attachments/assets/0fd5695c-5398-4dcf-ace7-ff021c01efe2" />
+
+<img width="331" height="319" alt="image" src="https://github.com/user-attachments/assets/01e6cd04-e614-449e-8bdc-3fda667846c8" />
+
+<img width="1339" height="450" alt="image" src="https://github.com/user-attachments/assets/d056799f-63f5-43bf-81d8-b445955c8de4" />
+
+<img width="898" height="279" alt="image" src="https://github.com/user-attachments/assets/8104c8e1-69eb-4091-acad-8a35227c7e68" />
+
+<img width="1194" height="463" alt="image" src="https://github.com/user-attachments/assets/e4fc572c-831f-4791-a0a4-b14316fdc31e" />
+
 
 ## Manipulação e Análise de Dados
 Uma das tarefas para este projeto era, além de construir as tabelas do banco de dados, deixar o mais visual possível para todos os níveis de acesso quais as informações mais relevantes para cada um deles. Para um Estoquista, por exemplo, é de suma importância ter controle do estoque de todos os produtos e seguir uma régua do que é um estoque baixo, adequado e qual a rotatividade deste estoque, por isso, foi construída a visão com essa manipulação dos dados para que possa fazer a análise e tomada de decisões.
+
 <img width="676" height="543" alt="image" src="https://github.com/user-attachments/assets/464cde84-df8a-41b5-bae0-f352fc7caf83" />
+
+Para conseguir essas visões gráficas, foi feito views no banco de dados com os dados importantes, o que mobilizou muitos conhecimentos de SQl e tudo que envolve essas ações. O importante é que, partindo dos dados, consegui dar sentido a eles para cada um dos usuários através da manipulação contínua dos dados.
+
+<img width="1308" height="512" alt="image" src="https://github.com/user-attachments/assets/7cdd13d5-c9a7-4b13-ab7c-1e3d0ab4fc2d" />
+
 
 
 ## Vídeo Explicativo
