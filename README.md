@@ -4,6 +4,7 @@ Criação de uma loja virtual com vários níveis de acesso, gráficos, tabelas 
 A loja virtual (ecommerce) é uma loja de café. Foi feito também um pouco de estilização para que ficasse visualmente bonita, além de completamente funcional.
 
 <img width="725" height="540" alt="image" src="https://github.com/user-attachments/assets/b0eeba97-54f8-4a6f-a248-f877af9b3e44" />
+<img width="1365" height="545" alt="image" src="https://github.com/user-attachments/assets/f3504214-46d5-4c9e-960c-002adf0ae0f3" />
 <img width="1352" height="586" alt="image" src="https://github.com/user-attachments/assets/84471baf-efed-43fc-ae0f-b3e52ec845d7" />
 
 ## Páginas
@@ -46,7 +47,13 @@ Para conseguir essas visões gráficas, foi feito views no banco de dados com os
 
 <img width="1308" height="512" alt="image" src="https://github.com/user-attachments/assets/7cdd13d5-c9a7-4b13-ab7c-1e3d0ab4fc2d" />
 
+## Mecanismo do carrinho de compras
+De toda a aplicação a parte mais complexa foi acertar todas as questões envolvendo o carrinho de compras, o inicio é a janel de compra quando o usuário quer escolher o produto e a quantidade, logoa pós isso a aplicação deve somar e listar todos os produtos e valores do carrinho
+
+<img width="1330" height="564" alt="image" src="https://github.com/user-attachments/assets/bdcf8e1d-e0e2-4ccc-9a88-3450ae7a8467" />
+
+Além disso, existem as integrações com todos os outros relatórios, a quantidade que for comprada deve ser devidamente debitada do estoque e aparecer para o estoquista que aquele produto foi vendido e diminuiu seu estoque, por exemplo. Ademais, modos diferentes de pagamento entre outros detalhes que envolvem um carrinho de compras. Quando consegui acertar o ponto e tudo funcionou certinho, foi muito satisfatório superar esse desafio.
 
 
 ## Vídeo Explicativo
-Publiquei um vídeo explicativo sobre este projeto na minha página do Linkedin, que pode ser acesso [CLICANDO NO LINK](https://www.linkedin.com/posts/bianca-rodrigues-cabral-042989190_primeiro-projeto-para-treinar-javascript-activity-7262207919453052929-UHeF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACz-sPIBL0jqbX6ldR-tNV1XqcluogLZzJM)
+Publiquei um vídeo explicativo sobre este projeto na minha página do Linkedin, que pode ser acesso [CLICANDO NO LINK](https://www.linkedin.com/feed/update/urn:li:activity:7461494679562330112/)
