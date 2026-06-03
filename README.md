@@ -17,6 +17,9 @@ Página INSERIR PRODUTO, GERENCIA ESTOQUE, ADMINISTRAÇÃO, RELATORIO DE ESTOQUE
 Foi utilizado também vários tipos de páginas diferentes como Classic Report, Interactiv report, interactiv grid, etc Na imagem abaixo podemos ver, por exemplo, dois exemplos de páginas, uma sobreposta a outra
 
 <img width="1364" height="569" alt="image" src="https://github.com/user-attachments/assets/38c65e85-8374-4f35-a2c8-fffc5590b326" />
+<img width="1350" height="588" alt="image" src="https://github.com/user-attachments/assets/6ac3032e-6a83-47c6-936c-314015f3d904" />
+<img width="1349" height="591" alt="image" src="https://github.com/user-attachments/assets/a0ea0771-a534-48ad-911e-6a61b913708a" />
+
 
 ## Controle de Acesso
 Em uma loja de verdade é preciso diferente níveis de acesso com diferentes permissões para manter o sistema confiável e garantindo que cada um só terá acesso e editará aquilo que é importante a sua função, sem gerar consequências para as outras pessoas. Um usuário comum, por exemplo, não pode ter o mesmo nível de acesso de um Administrador, que por sua vez, terá acesso diferente do que um Estoquista. Por isso, foi criado 7 níveis de acesso e permissões, ale´m da página chamada Access Control, que é de acesso do administrador e pode trocar as funções e acesso dos usuários a qualquer momento.
