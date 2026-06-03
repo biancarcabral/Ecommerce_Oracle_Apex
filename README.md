@@ -45,10 +45,14 @@ Abaixo é possivel ver alguams tabelas, views, packages e triggers criadas para 
 Uma das tarefas para este projeto era, além de construir as tabelas do banco de dados, deixar o mais visual possível para todos os níveis de acesso quais as informações mais relevantes para cada um deles. Para um Estoquista, por exemplo, é de suma importância ter controle do estoque de todos os produtos e seguir uma régua do que é um estoque baixo, adequado e qual a rotatividade deste estoque, por isso, foi construída a visão com essa manipulação dos dados para que possa fazer a análise e tomada de decisões.
 
 <img width="676" height="543" alt="image" src="https://github.com/user-attachments/assets/464cde84-df8a-41b5-bae0-f352fc7caf83" />
+<img width="1345" height="594" alt="image" src="https://github.com/user-attachments/assets/1e97729c-d152-48ab-bb44-979025aa88e6" />
+
 
 Para conseguir essas visões gráficas, foi feito views no banco de dados com os dados importantes, o que mobilizou muitos conhecimentos de SQl e tudo que envolve essas ações. O importante é que, partindo dos dados, consegui dar sentido a eles para cada um dos usuários através da manipulação contínua dos dados.
 
 <img width="1308" height="512" alt="image" src="https://github.com/user-attachments/assets/7cdd13d5-c9a7-4b13-ab7c-1e3d0ab4fc2d" />
+<img width="1352" height="560" alt="image" src="https://github.com/user-attachments/assets/1936dd48-f302-415c-bfdd-8b80ee18025b" />
+
 
 ## Mecanismo do carrinho de compras
 De toda a aplicação a parte mais complexa foi acertar todas as questões envolvendo o carrinho de compras, o inicio é a janel de compra quando o usuário quer escolher o produto e a quantidade, logoa pós isso a aplicação deve somar e listar todos os produtos e valores do carrinho
